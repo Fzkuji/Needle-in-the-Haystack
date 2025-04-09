@@ -2,6 +2,8 @@
 
 ## Needle Test Evaluation
 
+The code in this repository is a simplified version of [LongAlign](https://github.com/THUDM/LongAlign) preserving only the "Needle In A Haystack" evaluation.
+
 **[They](https://github.com/THUDM/LongAlign) reconstructed the original "Needle In A Haystack - Pressure Test" [code](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) to add support for evaluating HuggingFace models. The evaluation procedure involves 3 steps: *Test prompt generation*, *model predicting*, and *scoring*.**
 
 ### Environmental Setup
