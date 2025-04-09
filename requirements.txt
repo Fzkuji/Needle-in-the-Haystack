@@ -1,0 +1,9 @@
+tqdm
+numpy
+torch
+datasets
+einops
+anthropic
+tiktoken
+python-dotenv
+seaborn
