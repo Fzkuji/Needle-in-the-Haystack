@@ -44,3 +44,7 @@ Finally, visualize your result with
 ```bash
 python vis.py
 ```
+
+Below is the test result of [`Qwen2-0.5B-Instruct`](https://huggingface.co/Qwen/Qwen2-0.5B-Instruct) model:
+
+![OpenAI_DeepSeek-V3_eval.png](assets/OpenAI_DeepSeek-V3_eval.png)
